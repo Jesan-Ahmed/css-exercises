@@ -1,0 +1,12 @@
+.black, 
+.yollow{
+    font-size: 28px;
+    font-family: Arial, Helvetica, "Times New Roman", sans-serif;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.yollow{
+    background-color: yellow;
+}
